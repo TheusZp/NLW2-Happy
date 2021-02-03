@@ -1,0 +1,6 @@
+npm instal express --. instala o expres,que a ajuda a criar o servidor
+
+npm instal nodemon
+
+node src/server.js --> liga o servidor
+npm start
